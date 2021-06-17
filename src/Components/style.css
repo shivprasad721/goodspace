@@ -1,0 +1,41 @@
+/*Header Page style start */
+@import url('https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@700&display=swap');
+
+.container-fluid{
+    margin-top: 30px;
+}
+
+.flex-view-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* width: 50%; */
+    padding: 40px 40px;
+}
+.demoimage{
+    width: 40%;
+}
+.demoimage img{
+    width: 100%;
+    margin-top: -29px;
+
+}
+.feedback{
+ border: 2px solid blue;
+ padding: 0;
+ margin: 0;
+}
+.feedback-head{
+    padding: 20px 0;
+    background-color: #cfdce2;
+    text-align: center;
+    font-size: 24px;
+}
+.text-card{
+    margin-top: 20px;
+}
+.text-card p{
+    margin: auto;
+    padding: 10px 5px;
+    font-size: 12px;
+}

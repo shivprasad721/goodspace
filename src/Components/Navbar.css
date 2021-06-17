@@ -1,0 +1,50 @@
+.brandname{
+    color:#2762FB !important; 
+    font-size: 32px;
+   padding: 0 20px 0 30px;
+    font-weight: bold !important;
+}
+.nav-item{
+    text-align: center;
+}
+.icon{
+    text-align: center;
+}
+.rounded-circle{
+    width: 60px;
+    height: 60px;
+    vertical-align: center;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    border-right: none;
+    background: #f1f1f1;
+  }
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    color: grey;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  form.example button :hover{
+      color:black;
+  }
+  form.example::after {
+    content: "";
+    clear: both;
+  }  
