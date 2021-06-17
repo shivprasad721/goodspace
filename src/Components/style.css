@@ -10,7 +10,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     /* width: 50%; */
-    padding: 40px 40px;
+    padding: 100px 40px;
 }
 .demoimage{
     width: 40%;
@@ -24,6 +24,7 @@
  border: 2px solid blue;
  padding: 0;
  margin: 0;
+ height: 510px;
 }
 .feedback-head{
     padding: 20px 0;
